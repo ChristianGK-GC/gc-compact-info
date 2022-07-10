@@ -2,7 +2,7 @@
 // @name         Compact Information
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Compact Geocaching information with copy to clipboard.
+// @description  Creates a compact overview of a geocache incl. a copy to clipboard function.
 // @author       ChristianGK
 // @license      GNU General Public License v2.0
 // @match        https://www.geocaching.com/geocache/*
