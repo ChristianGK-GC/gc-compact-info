@@ -12,7 +12,6 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
 // @connect      nominatim.openstreetmap.
-// @connect      *
 // ==/UserScript==
 
 (function() {
