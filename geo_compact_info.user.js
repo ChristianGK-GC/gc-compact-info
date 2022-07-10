@@ -9,9 +9,9 @@
 // @license      https://www.geocaching.com/favicon-32x32.png
 // @license      https://upload.wikimedia.org/wikipedia/de/thumb/9/9a/Gc.svg/240px-Gc.svg.png
 // @icon         https://www.cachewiki.de/w/images/c/c9/Logo.png
+// @connect      nominatim.openstreetmap.org
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
-// @connect      nominatim.openstreetmap.org
 // ==/UserScript==
 
 (function() {
