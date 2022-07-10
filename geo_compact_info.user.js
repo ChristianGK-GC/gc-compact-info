@@ -11,7 +11,7 @@
 // @icon         https://www.cachewiki.de/w/images/c/c9/Logo.png
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
-// @connect      nominatim.openstreetmap.
+// @connect      nominatim.openstreetmap.org
 // ==/UserScript==
 
 (function() {
