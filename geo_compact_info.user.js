@@ -7,6 +7,7 @@
 // @homepageURL  https://github.com/ChristianGK-GC/gc-compact-info
 // @supportURL   https://github.com/ChristianGK-GC/gc-compact-info/issues
 // @downloadURL  https://github.com/ChristianGK-GC/gc-compact-info/raw/main/geo_compact_info.user.js
+// @updateURL  https://github.com/ChristianGK-GC/gc-compact-info/raw/main/geo_compact_info.user.js
 // @author       ChristianGK
 // @copyright    2022 ChristianGK
 // @license      GNU General Public License v2.0
