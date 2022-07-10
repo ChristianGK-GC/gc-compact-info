@@ -4,6 +4,7 @@
 // @version      0.1.2
 // @description  Creates a compact overview of a geocache incl. a copy to clipboard function.
 // @homepage     https://github.com/ChristianGK-GC/gc-compact-info
+// @homepageURL  https://github.com/ChristianGK-GC/gc-compact-info
 // @supportURL   https://github.com/ChristianGK-GC/gc-compact-info/issues
 // @downloadURL  https://github.com/ChristianGK-GC/gc-compact-info/raw/main/geo_compact_info.user.js
 // @author       ChristianGK
