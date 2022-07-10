@@ -1,13 +1,16 @@
 // ==UserScript==
 // @name         Compact Information
-// @namespace    http://tampermonkey.net/
-// @version      0.1.1
+// @namespace    https://www.geocaching.com/
+// @version      0.1.2
 // @description  Creates a compact overview of a geocache incl. a copy to clipboard function.
+// @homepage     https://github.com/ChristianGK-GC/gc-compact-info
+// @supportURL   https://github.com/ChristianGK-GC/gc-compact-info/issues
+// @downloadURL  https://github.com/ChristianGK-GC/gc-compact-info/raw/main/geo_compact_info.user.js
 // @author       ChristianGK
+// @copyright    2022 ChristianGK
 // @license      GNU General Public License v2.0
 // @match        https://www.geocaching.com/geocache/*
-// @license      https://www.geocaching.com/favicon-32x32.png
-// @license      https://upload.wikimedia.org/wikipedia/de/thumb/9/9a/Gc.svg/240px-Gc.svg.png
+// @icon64       https://upload.wikimedia.org/wikipedia/de/thumb/9/9a/Gc.svg/240px-Gc.svg.png
 // @icon         https://www.cachewiki.de/w/images/c/c9/Logo.png
 // @connect      nominatim.openstreetmap.org
 // @grant        GM.xmlHttpRequest
