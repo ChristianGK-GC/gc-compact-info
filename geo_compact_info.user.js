@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Compact Information
 // @namespace    https://www.geocaching.com/
-// @version      0.1.4
+// @version      0.1.5
 // @description  Creates a compact overview of a geocache incl. a copy to clipboard function.
 // @homepage     https://github.com/ChristianGK-GC/gc-compact-info
 // @homepageURL  https://github.com/ChristianGK-GC/gc-compact-info
@@ -10,8 +10,7 @@
 // @copyright    2022 ChristianGK
 // @license      GNU General Public License v2.0
 // @match        https://www.geocaching.com/geocache/*
-// @icon64       https://upload.wikimedia.org/wikipedia/de/thumb/9/9a/Gc.svg/240px-Gc.svg.png
-// @icon         https://www.cachewiki.de/w/images/c/c9/Logo.png
+// @icon         https://raw.githubusercontent.com/ChristianGK-GC/gc-compact-info/main/images/logo.png
 // @connect      nominatim.openstreetmap.org
 // @grant        GM.xmlHttpRequest
 // @grant        GM_xmlhttpRequest
