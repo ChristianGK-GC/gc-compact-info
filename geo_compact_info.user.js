@@ -24,8 +24,8 @@
             function CompactInfoMain() {
                 console.log('CompactInfoMain');
                 var output = '<div class="LocationData CompactInfoMain" style="min-height: 30px;">';
-                output += '<input type="button" class="Compact_Info_Button" value="Get data" style="color: #fff; min-width: 100px; background: #00b265; border: #00b265; border-radius: 4px; padding: 5px; text-align: center; float: right;"></input>';
-                output += '<input type="button" class="Compact_Copy_Button" value="Get data" style="color: #fff; min-width: 100px; background: #00b265; border: #00b265; border-radius: 4px; padding: 5px; text-align: center; float: right; display: none;"></input>';
+                output += '<input type="button" class="Compact_Info_Button" value="Get data" style="color: #fff; min-width: 100px; background: #02874d; border: #02874d; border-radius: 4px; padding: 5px; text-align: center; float: right;"></input>';
+                output += '<input type="button" class="Compact_Copy_Button" value="Get data" style="color: #fff; min-width: 100px; background: #02874d; border: #02874d; border-radius: 4px; padding: 5px; text-align: center; float: right; display: none;"></input>';
                 output += '<div id="Compact_Info" style="word-break: break-word; font-size: x-small; display: none;">';
                 output += '<span id="Compact_Info_Address"></span>';
                 output += '<br><span id="Compact_Info_GCName"></span> <span id="Compact_Info_GCcode"></span> (<span id="Compact_Info_City"></span>)';
