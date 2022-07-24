@@ -118,6 +118,8 @@
                             formattedAddress += ' | ' + result.address.county.replace(/Landkreis/g, '').trim();
                         } else if (result.address.city) {
                             formattedAddress += ' | ' + result.address.city;
+                        } else if (result.address.town) {
+                            formattedAddress += ' | ' + result.address.town;
                         }
 
                         var display_name = result.display_name;
