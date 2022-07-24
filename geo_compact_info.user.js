@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Compact Information
 // @namespace    https://www.geocaching.com/
-// @version      0.1.5
+// @version      0.1.6
 // @description  Creates a compact overview of a geocache incl. a copy to clipboard function.
 // @homepage     https://github.com/ChristianGK-GC/gc-compact-info
 // @homepageURL  https://github.com/ChristianGK-GC/gc-compact-info
